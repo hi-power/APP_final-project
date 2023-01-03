@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
     public class  MyAdapter extends  BaseAdapter{
         private MainActivity.Data[] data ;
         private int view ;
